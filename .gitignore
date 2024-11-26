@@ -1,0 +1,7 @@
+# Ignorando docs
+./Docs
+/Docs
+Docs/*
+Docs
+
+.env
